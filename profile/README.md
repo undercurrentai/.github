@@ -1,10 +1,7 @@
 # Undercurrent Holdings
 
-Autonomous AI infrastructure — governance, deployment, code evolution.
+Undercurrent Holdings builds evidence-gated tooling for AI agents; product status: <https://undercurrentholdings.com/status/>
 
-**Products:**
-- **[AEGIS](https://undercurrentholdings.com/developers/aegis/)** — AI governance infrastructure. Hash-chained audit trails, NIST AI RMF aligned.
-- **[AFA](https://undercurrentholdings.com/developers/afa/)** — Autonomous code evolution. Nine quantitative gates, cryptographic audit trail.
-- **[LIBERTAS](https://undercurrentholdings.com/libertas/)** — Autonomous CI/CD. 14 AI agents, SOC2/HIPAA/PCI-DSS from day one.
-
-[undercurrentholdings.com](https://undercurrentholdings.com) · [Developer Hub](https://undercurrentholdings.com/developers/)
+- [aegis-policy](https://github.com/undercurrentai/aegis-policy) — offline verifier kit for signed attestations; fails closed.
+- [aegis-governance on PyPI](https://pypi.org/project/aegis-governance/) — Python client and local MCP server; hosted service offline.
+- [AIPEA on PyPI](https://pypi.org/project/aipea/) — prompt preprocessing and screening; 12 releases.
